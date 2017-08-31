@@ -7,3 +7,5 @@ I am editing this file after I created a branch called TestYang and I am on the 
 After rolling back and making a new branch
 
 Edit after I deleted TestYang branch
+
+After I updated HTTPS to SSH for the "git remote set-url origin xx@xxx"
