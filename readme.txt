@@ -9,3 +9,5 @@ After rolling back and making a new branch
 Edit after I deleted TestYang branch
 
 After I updated HTTPS to SSH for the "git remote set-url origin xx@xxx"
+
+I have generated and added a new keypair to use SSH
