@@ -15,4 +15,6 @@ I have generated and added a new keypair to use SSH
 
 add new line in the new branch TestYang
 
-add line after switching back to HTTPS
+add line after switching back to HTTPSi
+
+Switched back to SSh to get the commands for class
